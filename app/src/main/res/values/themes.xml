@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Baitap_22_4_insert_Select_Update_delete_and_display_data_in_listview" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Baitap_22_4_insert_Select_Update_delete_and_display_data_in_listview" parent="Base.Theme.Baitap_22_4_insert_Select_Update_delete_and_display_data_in_listview" />
+</resources>
